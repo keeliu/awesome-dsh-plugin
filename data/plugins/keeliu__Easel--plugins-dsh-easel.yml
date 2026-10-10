@@ -1,0 +1,6 @@
+url: https://github.com/keeliu/Easel/tree/main/plugins/dsh-easel
+name: dsh-easel
+category: ui
+description:
+  en: "Creator Workbench panel for DeepSeek Harness that reuses the Easel repository's own skills, Python scripts and data directories to show account login state, maintain personas and the content library, dispatch topics into sessions, keep a content calendar and pre-check publishing without leaving the panel."
+  zh: "DSH 的自媒体工作台面板：复用 Easel 仓库既有的技能、Python 脚本与数据目录，在面板里查看账号登录态、维护画像与内容库、把选题派发到会话、维护内容日历并预检发布。"
